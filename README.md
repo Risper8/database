@@ -6,7 +6,9 @@ Welcome to the SQL and Python Integration repository! This repository contains f
 
 In this repository, you'll find:
 
-- **etl.ipynb**: Jupyter Notebook demonstrating how to connect to an SQL database using Python, execute SQL queries, and retrieve results into a Pandas DataFrame.
+- **sqpyt.ipynb**: Jupyter Notebook demonstrating how to connect to an SQL database using Python.
   
-- **data**: Directory containing sample SQL database files (e.g., .db, .sql) used in the examples.
+- **etl.ipynb**: Jupyter Notebook demonstrating how to execute SQL queries, and retrieve results into a Pandas DataFrame.
+
+- **student.ipynb**: Jupyter Notebook containing an assignment that was given.
 
